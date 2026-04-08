@@ -1,13 +1,10 @@
-# Hi there, I'm Yash Chaudhary 👋
+# Hey, I'm Yash Chaudhary 👋
 
-## 📊 Data Scientist | ML Engineer | AI Builder
+### Data Analyst · Backend Engineer · AI Builder
 
-- 🎓 Final-year B.Tech ECE student @ LNMIIT Jaipur (Graduating May 2026)
-- 💼 Seeking Data Scientist / Data Analyst / Data Engineer roles
-- 🏆 CAT 2025: 98.13%ile | XAT 2025: 93.91%ile
-- 💻 LeetCode Knight (300+ problems solved)
-- 🚀 Built & deployed production-grade AI systems — not just notebooks
-- 📈 Passionate about turning complex data into actionable, business-ready insights
+🎓 Final-year ECE @ **LNMIIT Jaipur** (May 2026) &nbsp;·&nbsp; 📍 Jaipur, India
+🏆 CAT 2025 **98.13%ile** &nbsp;·&nbsp; XAT 2025 **93.91%ile** &nbsp;·&nbsp; LeetCode **Knight** (300+ solved)
+🚀 Building production systems — not just notebooks
 
 ---
 
@@ -16,8 +13,19 @@
 **Languages & Query**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
 **Data & ML**
 
@@ -37,7 +45,6 @@
 **BI & Visualisation**
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
@@ -45,44 +52,61 @@
 
 ### 📌 Featured Projects
 
+#### 🔧 [SaaS Boilerplate — FastAPI Backend](https://github.com/yash752-stack/SaaSboilerplate)
+> *FastAPI · PostgreSQL · SQLAlchemy · JWT · Stripe · Celery · Redis · Docker · GitHub Actions*
+
+Production-grade SaaS backend built in 1 week, pushed daily to GitHub.
+- 🔐 **Auth** — JWT access + refresh tokens, bcrypt, email verification, password reset
+- 👥 **RBAC** — role & plan-based permission gates (`free → pro → enterprise`)
+- 💳 **Stripe billing** — Checkout, Customer Portal, webhook handler (auto-syncs plan to DB)
+- ⚙️ **Celery + Redis** — async email queue, Celery Beat scheduled jobs, Flower monitoring
+- 🛡️ **Rate limiting** — Redis-backed per-IP/per-route sliding window
+- 🐳 **Docker Compose** — API + Worker + Beat + Flower + PostgreSQL + Redis, one command
+
+---
+
 #### 🌟 [Financial RAG Assistant](https://github.com/yash752-stack/Financial-RAG-Assistant) — [**Live Demo →**](https://financial-rag-assistant.streamlit.app/)
 > *Python · Streamlit · TF-IDF · BM25 · RRF · Groq · Llama 3.3 · Plotly*
 
 Production-grade Financial AI assistant deployed on Streamlit Cloud.
-- 🔍 **Hybrid retrieval** — TF-IDF + BM25 + Reciprocal Rank Fusion (k=60), cutting memory **950MB → 370MB** (61% reduction)
-- 📄 **Document Q&A** — grounded AI answers over uploaded 10-K filings & earnings transcripts at **90%+ accuracy**
-- 📈 **Live market dashboards** — 200+ assets (stocks, crypto, FX, commodities), RSI, MACD, Bollinger Bands, Fear & Greed Index
-- 💼 **Portfolio risk analytics** — Sharpe Ratio, VaR (95%/99%), Beta, correlation matrix
-- 🤖 **LLM** — Groq Llama 3.3-70B (500+ tok/s) with hallucination-proof grounding prompt
+- 🔍 **Hybrid retrieval** — TF-IDF + BM25 + RRF (k=60), cutting memory **950MB → 370MB** (61% reduction)
+- 📄 **Document Q&A** — grounded AI answers over 10-K filings & earnings transcripts at **90%+ accuracy**
+- 📈 **Live dashboards** — 200+ assets (stocks, crypto, FX), RSI, MACD, Fear & Greed Index
+- 💼 **Portfolio risk** — Sharpe Ratio, VaR (95%/99%), Beta, correlation matrix
 
 ---
 
-#### 🧠 [Autonomous Customer Intelligence Engine (ACIE)](https://github.com/yash752-stack/acie-churn-prediction)
+#### 🧠 [Autonomous Customer Intelligence Engine](https://github.com/yash752-stack/acie-churn-prediction)
 > *PyTorch · XGBoost · MLflow · scikit-learn · Optuna*
 
 End-to-end MLOps churn prediction pipeline.
-- ⚡ **TabTransformer** in PyTorch — **91.2% AUC-ROC · 87% F1** on severely imbalanced data
+- ⚡ **TabTransformer** — **91.2% AUC-ROC · 87% F1** on severely imbalanced data
 - 📉 **27% churn reduction** (8.5% → 6.2%) · **$180K/month** simulated revenue recovery
-- 🔬 Full MLOps: MLflow tracking, KS-test drift detection, Optuna Bayesian tuning (**80% faster** than grid search)
+- 🔬 MLflow tracking, KS-test drift detection, Optuna Bayesian tuning (**80% faster** optimisation)
 
 ---
 
-#### 📊 [Sales Analytics & Forecasting with ML](https://github.com/yash752-stack/sales-analytics-ml)
+#### 📊 [Sales Analytics & Forecasting](https://github.com/yash752-stack/sales-analytics-ml)
 > *Python · Pandas · scikit-learn · Matplotlib · Seaborn*
 
 End-to-end analytics pipeline on 10,000+ transactions.
-- 🌲 **Random Forest** revenue forecasting at **92% R²** with 15+ engineered temporal & lag features
-- 👥 **RFM segmentation** — K-Means (k=4, silhouette score 0.65) identifying 4 actionable customer segments
-- 📊 Interactive dashboard with segment-level marketing recommendations
+- 🌲 **Random Forest** revenue forecasting at **92% R²** with 15+ temporal & lag features
+- 👥 **RFM segmentation** — K-Means (k=4, silhouette 0.65) → 4 actionable customer segments
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash752-stack)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:22uec147@lnmiit.ac.in)
-[![Portfolio](https://img.shields.io/badge/-Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://financial-rag-assistant.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://financial-rag-assistant.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash752-stack)
 
 ---
 
-💡 *Open to Data Scientist / Data Analyst / Data Engineer opportunities* | 🌟 *Building production AI systems*
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash752-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash752-stack&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+💡 *Open to Data Analyst · Backend Engineer · SaaS roles* &nbsp;·&nbsp; 🌟 *Building real systems, shipping daily*
