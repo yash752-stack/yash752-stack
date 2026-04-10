@@ -19,6 +19,12 @@
   <strong>⚡ Building production-ready backends, RAG systems, and analytics products that feel real.</strong>
 </p>
 
+## 🎯 Recruiter Snapshot
+
+- 🔧 **Backend Engineering:** FastAPI, Node.js, REST APIs, PostgreSQL, Redis, Docker
+- 🤖 **AI / ML Systems:** RAG pipelines, prompt engineering, MLflow, analytics dashboards
+- 🚀 **Production Thinking:** auth flows, RBAC, async jobs, caching, deployment-minded development
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -82,6 +88,8 @@
   <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
   <img src="https://img.shields.io/badge/LLAMA%203.3-FF6B35?style=for-the-badge&logoColor=white" alt="Llama 3.3" />
   <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -100,6 +108,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/CURSOR-3B82F6?style=for-the-badge&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/GITHUB%20COPILOT-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
