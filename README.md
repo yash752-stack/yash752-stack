@@ -48,6 +48,22 @@
 
 ## 🧰 Tech Stack
 
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+</p>
+
+### 🔌 Backend & APIs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/REST%20API-FF7A00?style=for-the-badge&logoColor=white" alt="REST API" />
+</p>
+
 ### 🤖 AI & Automation
 
 <p align="left">
