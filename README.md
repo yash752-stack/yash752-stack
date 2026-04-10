@@ -63,6 +63,25 @@
   <img src="https://img.shields.io/badge/Groq%20%2F%20Llama%203.3-F55036?style=flat-square&logoColor=white" alt="Groq" />
 </p>
 
+## 🧰 Daily Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/CURSOR-3B82F6?style=for-the-badge&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/GITHUB%20COPILOT-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash752-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=yash752-stack&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
+
 ## 🚀 Current Focus
 
 - 🔧 Production-style **FastAPI SaaS backends**
@@ -134,11 +153,11 @@
 ## 🎴 Dev Vibe
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="coding vibe gif" />
+  <img src="https://media.giphy.com/media/epZhLKmVDH1hPnwBgc/giphy.gif" width="70%" alt="Sekiro gif" />
 </div>
 
 <p align="center">
-  <em>"Code. Debug. Learn. Repeat."</em>
+  <em>"Hesitation is Defeat."</em>
 </p>
 
 <p align="center">
