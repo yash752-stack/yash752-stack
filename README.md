@@ -89,7 +89,11 @@
 - 📊 ML workflows with **tracking, drift checks, and deployable outputs**
 - 📈 Analytics products that move from dashboards to decisions
 
-## 🧩 Featured Builds
+## 🧩 Top 3 Featured Projects
+
+<p>
+  The three projects below are the strongest signal for my backend, AI, and production engineering depth.
+</p>
 
 ### 🔐 [SaaS Boilerplate](https://github.com/yash752-stack/SaaSboilerplate)
 
@@ -111,13 +115,6 @@
 - **91.2% AUC-ROC** and **87% F1**
 - Drift checks with KS testing
 - Optimization workflow cut tuning time by **80%**
-
-### 📈 [Sales Analytics & Forecasting](https://github.com/yash752-stack/sales-analytics-ml)
-
-- Random Forest forecasting at **92% R²**
-- RFM-based K-Means segmentation
-- 10,000+ transaction pipeline
-- Focused on actionable business reporting
 
 ## 📈 GitHub Activity
 
