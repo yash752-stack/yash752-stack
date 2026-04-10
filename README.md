@@ -1,111 +1,149 @@
-# Hey, I'm Yash Chaudhary 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FR34KY-CODER/FR34KY-CODER/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="retro coding room banner" />
+</div>
 
-### Data Analyst · Backend Engineer · AI Builder
+<h1 align="center">Hi, I'm Yash Chaudhary</h1>
+<h3 align="center">Backend Engineer • AI Builder • Data-Driven Problem Solver</h3>
 
-🎓 Final-year ECE @ **LNMIIT Jaipur** (May 2026) &nbsp;·&nbsp; 📍 Jaipur, India
-🏆 CAT 2025 **98.13%ile** &nbsp;·&nbsp; XAT 2025 **93.91%ile** &nbsp;·&nbsp; LeetCode **Knight** (300+ solved)
-🚀 Building production systems — not just notebooks
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=900&lines=FastAPI+%7C+PostgreSQL+%7C+Redis+%7C+Docker;Building+production-ready+backends+and+RAG+systems;CAT+98.13%25ile+%7C+LeetCode+Knight+%7C+LNMIIT+Jaipur" alt="Typing intro" />
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash752-stack&style=for-the-badge&color=7c6af7" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/yash752-stack?style=for-the-badge&color=38bdf8&labelColor=111827" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20To-Backend%20%7C%20AI%20%7C%20Data-10b981?style=for-the-badge&labelColor=111827" alt="Open to roles" />
+</p>
 
-### 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
-**Languages & Query**
+## About Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+- Final-year ECE student at **LNMIIT Jaipur** graduating in **May 2026**
+- I enjoy building systems that feel production-ready, not just project-ready
+- Strongest zones: **FastAPI, SQL, PostgreSQL, Docker, Redis, RAG pipelines, analytics**
+- Competitive edge: **CAT 98.13%ile**, **XAT 93.91%ile**, **LeetCode Knight**, **300+ problems solved**
+- Currently focused on **backend engineering, scalable APIs, AI products, and system design**
 
-**Backend & APIs**
+## What I'm Building
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+- Production-style **FastAPI SaaS backends**
+- **RAG assistants** that balance performance, memory, and accuracy
+- ML workflows with **tracking, drift checks, and deployable outputs**
+- Analytics products that move from dashboards to real decisions
 
-**Data & ML**
+    </td>
+    <td width="45%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yash752-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash752-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+## Tech Arsenal
 
-**AI / LLM**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,linux,pytorch,c&perline=10" alt="Core tech stack" />
+</p>
 
-![LLM](https://img.shields.io/badge/-LLM%20Integration-412991?style=flat&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq%20%2F%20Llama%203.3-F55036?style=flat&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG%20Systems-6B21A8?style=flat&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Groq%20%2F%20Llama%203.3-F55036?style=flat-square&logoColor=white" alt="Groq" />
+</p>
 
-**BI & Visualisation**
+## Featured Builds
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+### [SaaS Boilerplate](https://github.com/yash752-stack/SaaSboilerplate)
 
-### 📌 Featured Projects
+Production-grade backend foundation built with shipping discipline.
 
-#### 🔧 [SaaS Boilerplate — FastAPI Backend](https://github.com/yash752-stack/SaaSboilerplate)
-> *FastAPI · PostgreSQL · SQLAlchemy · JWT · Stripe · Celery · Redis · Docker · GitHub Actions*
+- FastAPI + PostgreSQL + SQLAlchemy + JWT + Stripe
+- Celery + Redis for async jobs and scheduled work
+- RBAC, email verification, password reset, billing flows
+- Docker Compose setup with worker, beat, Flower, DB, and cache
 
-Production-grade SaaS backend built in 1 week, pushed daily to GitHub.
-- 🔐 **Auth** — JWT access + refresh tokens, bcrypt, email verification, password reset
-- 👥 **RBAC** — role & plan-based permission gates (`free → pro → enterprise`)
-- 💳 **Stripe billing** — Checkout, Customer Portal, webhook handler (auto-syncs plan to DB)
-- ⚙️ **Celery + Redis** — async email queue, Celery Beat scheduled jobs, Flower monitoring
-- 🛡️ **Rate limiting** — Redis-backed per-IP/per-route sliding window
-- 🐳 **Docker Compose** — API + Worker + Beat + Flower + PostgreSQL + Redis, one command
+    </td>
+    <td width="50%" valign="top">
 
----
+### [Financial RAG Assistant](https://github.com/yash752-stack/Financial-RAG-Assistant)
 
-#### 🌟 [Financial RAG Assistant](https://github.com/yash752-stack/Financial-RAG-Assistant) — [**Live Demo →**](https://financial-rag-assistant.streamlit.app/)
-> *Python · Streamlit · TF-IDF · BM25 · RRF · Groq · Llama 3.3 · Plotly*
+An AI assistant for grounded financial research and faster insight discovery.
 
-Production-grade Financial AI assistant deployed on Streamlit Cloud.
-- 🔍 **Hybrid retrieval** — TF-IDF + BM25 + RRF (k=60), cutting memory **950MB → 370MB** (61% reduction)
-- 📄 **Document Q&A** — grounded AI answers over 10-K filings & earnings transcripts at **90%+ accuracy**
-- 📈 **Live dashboards** — 200+ assets (stocks, crypto, FX), RSI, MACD, Fear & Greed Index
-- 💼 **Portfolio risk** — Sharpe Ratio, VaR (95%/99%), Beta, correlation matrix
+- TF-IDF + BM25 + RRF hybrid retrieval
+- Reduced memory from **950MB to 370MB**
+- 200+ assets with live dashboards and risk metrics
+- [Live Demo](https://financial-rag-assistant.streamlit.app/)
 
----
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-#### 🧠 [Autonomous Customer Intelligence Engine](https://github.com/yash752-stack/acie-churn-prediction)
-> *PyTorch · XGBoost · MLflow · scikit-learn · Optuna*
+### [ACIE Churn Prediction](https://github.com/yash752-stack/acie-churn-prediction)
 
-End-to-end MLOps churn prediction pipeline.
-- ⚡ **TabTransformer** — **91.2% AUC-ROC · 87% F1** on severely imbalanced data
-- 📉 **27% churn reduction** (8.5% → 6.2%) · **$180K/month** simulated revenue recovery
-- 🔬 MLflow tracking, KS-test drift detection, Optuna Bayesian tuning (**80% faster** optimisation)
+An end-to-end churn intelligence pipeline with strong MLOps thinking.
 
----
+- TabTransformer + XGBoost + MLflow + Optuna
+- **91.2% AUC-ROC** and **87% F1**
+- Drift checks with KS testing
+- Optimization workflow cut tuning time by **80%**
 
-#### 📊 [Sales Analytics & Forecasting](https://github.com/yash752-stack/sales-analytics-ml)
-> *Python · Pandas · scikit-learn · Matplotlib · Seaborn*
+    </td>
+    <td width="50%" valign="top">
 
-End-to-end analytics pipeline on 10,000+ transactions.
-- 🌲 **Random Forest** revenue forecasting at **92% R²** with 15+ temporal & lag features
-- 👥 **RFM segmentation** — K-Means (k=4, silhouette 0.65) → 4 actionable customer segments
+### [Sales Analytics & Forecasting](https://github.com/yash752-stack/sales-analytics-ml)
 
----
+Analytics work that connects raw data to decisions and forecasting.
 
-### 📫 Let's Connect
+- Random Forest forecasting at **92% R²**
+- RFM-based K-Means segmentation
+- 10,000+ transaction pipeline
+- Focused on actionable business reporting
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash752-stack)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:22uec147@lnmiit.ac.in)
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://financial-rag-assistant.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yash752-stack)
+    </td>
+  </tr>
+</table>
 
----
+## GitHub Activity
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash752-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash752-stack&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yash752-stack&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash752-stack&theme=tokyo-night&hide_border=true&bg_color=00000000" alt="Activity graph" />
+</p>
 
-💡 *Open to Data Analyst · Backend Engineer · SaaS roles* &nbsp;·&nbsp; 🌟 *Building real systems, shipping daily*
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash752-stack">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:22uec147@lnmiit.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yash752-stack">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://financial-rag-assistant.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building real systems, shipping consistently, and getting sharper every week.</strong>
+</p>
