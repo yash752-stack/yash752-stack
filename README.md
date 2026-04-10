@@ -57,6 +57,15 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
 </p>
 
+### ⚡ Frontend & Visualization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DATA%20VISUALIZATION-FF8C00?style=for-the-badge&logoColor=white" alt="Data Visualization" />
+</p>
+
 ### 🔌 Backend & APIs
 
 <p align="left">
@@ -94,8 +103,6 @@
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/CURSOR-3B82F6?style=for-the-badge&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/GITHUB%20COPILOT-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
 </p>
 
 ## 📊 GitHub Statistics
