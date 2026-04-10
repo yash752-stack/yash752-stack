@@ -78,7 +78,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yash752-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash752-stack&theme=github_dark" alt="GitHub stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=yash752-stack&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak" />
 </p>
 
