@@ -46,33 +46,40 @@
   </tr>
 </table>
 
-## ⚒️ Tech Arsenal
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,linux,pytorch,c&perline=10" alt="Core tech stack" />
+### 🤖 AI & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG%20PIPELINES-6D5DF6?style=for-the-badge&logoColor=white" alt="RAG Pipelines" />
+  <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-7E57C2?style=for-the-badge&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/LLAMA%203.3-FF6B35?style=for-the-badge&logoColor=white" alt="Llama 3.3" />
+  <img src="https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Groq%20%2F%20Llama%203.3-F55036?style=flat-square&logoColor=white" alt="Groq" />
+### 🗄️ Databases & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLALCHEMY-D71F00?style=for-the-badge&logoColor=white" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-## 🧰 Daily Toolkit
+### ⚙️ Tools & Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
   <img src="https://img.shields.io/badge/CURSOR-3B82F6?style=for-the-badge&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/GITHUB%20COPILOT-111111?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
 </p>
 
 ## 📊 GitHub Statistics
