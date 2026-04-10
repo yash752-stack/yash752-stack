@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c6af7&height=120&section=header" width="100%" alt="header wave" />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/FR34KY-CODER/FR34KY-CODER/refs/heads/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="88%" alt="retro coding room banner" />
 </div>
 
@@ -96,23 +100,51 @@
 - 10,000+ transaction pipeline
 - Focused on actionable business reporting
 
+## 📈 GitHub Activity
+
+![Yash's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=yash752-stack&bg_color=0d1117&color=e5e7eb&line=7c6af7&point=38bdf8&area=true&hide_border=true&custom_title=Yash%20Chaudhary's%20Contribution%20Graph)
+
 ## 🌐 Connect With Me
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:22uec147@lnmiit.ac.in">
+        <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/yash752-stack">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/yash752-stack">
+        <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://financial-rag-assistant.streamlit.app/">
+        <img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🎴 Dev Vibe
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="coding vibe gif" />
+</div>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash752-stack">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:22uec147@lnmiit.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/yash752-stack">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://financial-rag-assistant.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-  </a>
+  <em>"Code. Debug. Learn. Repeat."</em>
 </p>
 
 <p align="center">
   <strong>💡 Building real systems, shipping consistently, and getting sharper every week.</strong>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,100:0f172a&height=120&section=footer" width="100%" alt="footer wave" />
+</div>
