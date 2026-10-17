@@ -13,7 +13,7 @@ There is no labelled cheating data for exam CCTV, so nothing here is trained to 
 - Qwen3-VL-8B looks at every seat detection once: 65 of 67 are real people, and logos and empty desks are dropped.
 - Seat-anchored RTMPose-x raised people per frame from 13 to 24 but did not raise catches, so production stayed as it was.
 
-**[Live demo](https://yash752-stack.github.io/exam-integrity-demo/)**, with the footage pixelated so no candidate can be identified. The repository is private because the footage belongs to the exam body. I am happy to walk through it.
+[Live demo](https://yash752-stack.github.io/exam-integrity-demo/), with the footage pixelated so no candidate can be identified. The repository is private because the footage belongs to the exam body. I am happy to walk through it.
 
 ## Call-centre speech analytics
 
@@ -26,7 +26,7 @@ A live helpdesk portal paid for Gemini to transcribe and categorise every call. 
 - Unsure calls go to a person with the model's next two guesses, instead of a confident wrong label.
 - The GPU server sleeps when idle. The portal wakes it through AWS Lambda once calls queue up, and one setting switches back to Gemini.
 
-**[Live demo](https://yash752-stack.github.io/call-analytics-demo/)**: play a synthetic call and see the ticket it fills, mistakes included.
+[Live demo](https://yash752-stack.github.io/call-analytics-demo/): play a synthetic call and see the ticket it fills, mistakes included.
 
 ## Other work
 
